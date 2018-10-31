@@ -34,6 +34,14 @@ nav {
   }
 }
 
+@media (max-width:788px) {
+  #logo{
+      img{
+          width: 70px;
+      }
+  }
+}
+
 .text-left {
   text-align: left;
 }
